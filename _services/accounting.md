@@ -1,10 +1,10 @@
 ---
-title: "Accounting"
+title: "Talent Acquisition"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Talent acquisition is the strategic process of identifying, attracting, and hiring top talent to meet organizational needs. It goes beyond recruitment, focusing on long-term human capital planning and building strong employer branding.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

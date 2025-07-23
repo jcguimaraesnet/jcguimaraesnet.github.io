@@ -1,13 +1,10 @@
 ---
-title: "Tax Preperation"
+title: "HR Compliance"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+HR compliance refers to aligning company policies and practices with labor laws and regulations. Services in this area include audits, policy development, and training to minimize legal risks and maintain ethical standards.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
