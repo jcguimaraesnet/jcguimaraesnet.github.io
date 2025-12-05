@@ -1,10 +1,10 @@
 ---
-title: "Compensation and Benefits"
+title: "AI Governance & Ethics"
 date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Compensation and benefits services ensure organizations offer competitive and equitable reward structures. This includes salary benchmarking, bonus schemes, health plans, and other incentives that attract and retain talent.
+Implementation of secure agents with robust "guardrails" to ensure the AI respects your business rules and data privacy standards.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

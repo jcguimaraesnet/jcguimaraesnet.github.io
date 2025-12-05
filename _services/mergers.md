@@ -1,10 +1,10 @@
 ---
-title: "Employee Engagement"
+title: "Cost Optimization & ROI"
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-Employee engagement focuses on improving motivation, satisfaction, and commitment among employees. Strategies often include surveys, workshops, and action plans designed to create a more positive and productive workplace.
+Detailed analysis of where AI can replace fixed operational costs, generating financial efficiency and predictable spending models.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

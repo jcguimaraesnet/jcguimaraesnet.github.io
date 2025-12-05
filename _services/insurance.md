@@ -1,10 +1,10 @@
 ---
-title: "Organizational Culture"
+title: "AI Strategy & Consulting"
 date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Organizational culture services help define, shape, and sustain a company’s values, behaviors, and work environment. These services foster engagement, alignment, and shared purpose among teams.
+Advisory services for leaders looking to adopt an AI-first culture. We identify high-impact, low-risk opportunities to implement AI in your organization.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

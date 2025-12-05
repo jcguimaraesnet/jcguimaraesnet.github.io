@@ -1,10 +1,10 @@
 ---
-title: "Talent Acquisition"
+title: "Custom AI Agents"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Talent acquisition is the strategic process of identifying, attracting, and hiring top talent to meet organizational needs. It goes beyond recruitment, focusing on long-term human capital planning and building strong employer branding.
+We develop "digital employees" tailored to your specific needs, capable of executing tasks from customer support to data analysis, operating 24/7.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

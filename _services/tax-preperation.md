@@ -1,10 +1,10 @@
 ---
-title: "HR Compliance"
+title: "AI Governance & Ethics"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-HR compliance refers to aligning company policies and practices with labor laws and regulations. Services in this area include audits, policy development, and training to minimize legal risks and maintain ethical standards.
+Implementation of secure agents with robust "guardrails" to ensure the AI respects your business rules and data privacy standards.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

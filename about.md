@@ -5,9 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+At Edge Think, we believe the future of work is hybrid: humans defining strategy and AI executing operations. We bridge the gap between the complexity of Large Language Models (LLMs) and practical business needs. We don't just ship code; we deliver operational efficiency and competitive advantage.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 

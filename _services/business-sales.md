@@ -1,10 +1,10 @@
 ---
-title: "Performance Management"
+title: "Intelligent Support (CX)"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Performance management involves the continuous process of setting goals, assessing progress, and providing feedback to ensure that individual and organizational objectives are being met efficiently and effectively.
+Deploy advanced chatbots and voice agents that understand context and intent, instantly resolving issues and elevating your Customer Experience.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

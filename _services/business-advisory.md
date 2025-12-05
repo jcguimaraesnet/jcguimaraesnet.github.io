@@ -1,10 +1,10 @@
 ---
-title: "Leadership Development"
+title: "Workflow Automation"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Leadership development is the practice of enhancing the leadership capabilities of individuals within an organization. It includes training programs, coaching, and mentoring to build confident, effective, and visionary leaders.
+Connect your existing systems (CRM, ERP, Spreadsheets) to AI brains to orchestrate entire processes without human intervention, ensuring speed and accuracy.
 <!--more-->
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
