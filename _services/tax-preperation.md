@@ -1,10 +1,10 @@
 ---
-title: "AI Governance & Ethics"
+title: "AI Strategy & Consulting"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Implementation of secure agents with robust "guardrails" to ensure the AI respects your business rules and data privacy standards.
+Advisory services for leaders looking to adopt an AI-first culture. We identify high-impact, low-risk opportunities to implement AI in your organization.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
